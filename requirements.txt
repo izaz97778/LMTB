@@ -3,7 +3,7 @@ aiofiles
 aioshutil
 anytree==2.8.0
 apscheduler
-aioaria2
+aria2p
 asyncio
 beautifulsoup4
 cinemagoer
